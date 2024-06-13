@@ -2,7 +2,7 @@ FROM pytorch/pytorch
 
 WORKDIR /workdir
 
-RUN conda install jupyterlab
+RUN conda install jupyterlab pandas numpy scikit-learn scikit-image holoviews matplotlib
 
 EXPOSE 8888
 
