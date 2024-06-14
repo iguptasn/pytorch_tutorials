@@ -1,0 +1,101 @@
+,img_path,label
+0,./data/iterable_FashionMNIST/img_0.tif,Ankle Boot
+1,./data/iterable_FashionMNIST/img_1.tif,T-Shirt
+2,./data/iterable_FashionMNIST/img_2.tif,T-Shirt
+3,./data/iterable_FashionMNIST/img_3.tif,Dress
+4,./data/iterable_FashionMNIST/img_4.tif,T-Shirt
+5,./data/iterable_FashionMNIST/img_5.tif,Pullover
+6,./data/iterable_FashionMNIST/img_6.tif,Sneaker
+7,./data/iterable_FashionMNIST/img_7.tif,Pullover
+8,./data/iterable_FashionMNIST/img_8.tif,Sandal
+9,./data/iterable_FashionMNIST/img_9.tif,Sandal
+10,./data/iterable_FashionMNIST/img_10.tif,T-Shirt
+11,./data/iterable_FashionMNIST/img_11.tif,Ankle Boot
+12,./data/iterable_FashionMNIST/img_12.tif,Sandal
+13,./data/iterable_FashionMNIST/img_13.tif,Sandal
+14,./data/iterable_FashionMNIST/img_14.tif,Sneaker
+15,./data/iterable_FashionMNIST/img_15.tif,Ankle Boot
+16,./data/iterable_FashionMNIST/img_16.tif,Trouser
+17,./data/iterable_FashionMNIST/img_17.tif,T-Shirt
+18,./data/iterable_FashionMNIST/img_18.tif,Shirt
+19,./data/iterable_FashionMNIST/img_19.tif,Coat
+20,./data/iterable_FashionMNIST/img_20.tif,Dress
+21,./data/iterable_FashionMNIST/img_21.tif,Trouser
+22,./data/iterable_FashionMNIST/img_22.tif,Coat
+23,./data/iterable_FashionMNIST/img_23.tif,Bag
+24,./data/iterable_FashionMNIST/img_24.tif,Coat
+25,./data/iterable_FashionMNIST/img_25.tif,Dress
+26,./data/iterable_FashionMNIST/img_26.tif,T-Shirt
+27,./data/iterable_FashionMNIST/img_27.tif,Pullover
+28,./data/iterable_FashionMNIST/img_28.tif,Coat
+29,./data/iterable_FashionMNIST/img_29.tif,Coat
+30,./data/iterable_FashionMNIST/img_30.tif,Sandal
+31,./data/iterable_FashionMNIST/img_31.tif,Dress
+32,./data/iterable_FashionMNIST/img_32.tif,Shirt
+33,./data/iterable_FashionMNIST/img_33.tif,Shirt
+34,./data/iterable_FashionMNIST/img_34.tif,T-Shirt
+35,./data/iterable_FashionMNIST/img_35.tif,Bag
+36,./data/iterable_FashionMNIST/img_36.tif,Sandal
+37,./data/iterable_FashionMNIST/img_37.tif,Pullover
+38,./data/iterable_FashionMNIST/img_38.tif,Trouser
+39,./data/iterable_FashionMNIST/img_39.tif,Shirt
+40,./data/iterable_FashionMNIST/img_40.tif,Shirt
+41,./data/iterable_FashionMNIST/img_41.tif,Sneaker
+42,./data/iterable_FashionMNIST/img_42.tif,Ankle Boot
+43,./data/iterable_FashionMNIST/img_43.tif,Sandal
+44,./data/iterable_FashionMNIST/img_44.tif,Ankle Boot
+45,./data/iterable_FashionMNIST/img_45.tif,Pullover
+46,./data/iterable_FashionMNIST/img_46.tif,Sneaker
+47,./data/iterable_FashionMNIST/img_47.tif,Dress
+48,./data/iterable_FashionMNIST/img_48.tif,T-Shirt
+49,./data/iterable_FashionMNIST/img_49.tif,Dress
+50,./data/iterable_FashionMNIST/img_50.tif,Dress
+51,./data/iterable_FashionMNIST/img_51.tif,Dress
+52,./data/iterable_FashionMNIST/img_52.tif,Sneaker
+53,./data/iterable_FashionMNIST/img_53.tif,Pullover
+54,./data/iterable_FashionMNIST/img_54.tif,Pullover
+55,./data/iterable_FashionMNIST/img_55.tif,Shirt
+56,./data/iterable_FashionMNIST/img_56.tif,Shirt
+57,./data/iterable_FashionMNIST/img_57.tif,Bag
+58,./data/iterable_FashionMNIST/img_58.tif,Dress
+59,./data/iterable_FashionMNIST/img_59.tif,Dress
+60,./data/iterable_FashionMNIST/img_60.tif,Sandal
+61,./data/iterable_FashionMNIST/img_61.tif,T-Shirt
+62,./data/iterable_FashionMNIST/img_62.tif,Sandal
+63,./data/iterable_FashionMNIST/img_63.tif,Sandal
+64,./data/iterable_FashionMNIST/img_64.tif,T-Shirt
+65,./data/iterable_FashionMNIST/img_65.tif,Pullover
+66,./data/iterable_FashionMNIST/img_66.tif,T-Shirt
+67,./data/iterable_FashionMNIST/img_67.tif,T-Shirt
+68,./data/iterable_FashionMNIST/img_68.tif,Coat
+69,./data/iterable_FashionMNIST/img_69.tif,Trouser
+70,./data/iterable_FashionMNIST/img_70.tif,Dress
+71,./data/iterable_FashionMNIST/img_71.tif,Trouser
+72,./data/iterable_FashionMNIST/img_72.tif,Shirt
+73,./data/iterable_FashionMNIST/img_73.tif,Dress
+74,./data/iterable_FashionMNIST/img_74.tif,Trouser
+75,./data/iterable_FashionMNIST/img_75.tif,Coat
+76,./data/iterable_FashionMNIST/img_76.tif,Coat
+77,./data/iterable_FashionMNIST/img_77.tif,Shirt
+78,./data/iterable_FashionMNIST/img_78.tif,Trouser
+79,./data/iterable_FashionMNIST/img_79.tif,Ankle Boot
+80,./data/iterable_FashionMNIST/img_80.tif,Trouser
+81,./data/iterable_FashionMNIST/img_81.tif,Dress
+82,./data/iterable_FashionMNIST/img_82.tif,Sandal
+83,./data/iterable_FashionMNIST/img_83.tif,Sneaker
+84,./data/iterable_FashionMNIST/img_84.tif,Ankle Boot
+85,./data/iterable_FashionMNIST/img_85.tif,Sneaker
+86,./data/iterable_FashionMNIST/img_86.tif,Trouser
+87,./data/iterable_FashionMNIST/img_87.tif,Sneaker
+88,./data/iterable_FashionMNIST/img_88.tif,Ankle Boot
+89,./data/iterable_FashionMNIST/img_89.tif,Ankle Boot
+90,./data/iterable_FashionMNIST/img_90.tif,Ankle Boot
+91,./data/iterable_FashionMNIST/img_91.tif,Dress
+92,./data/iterable_FashionMNIST/img_92.tif,Pullover
+93,./data/iterable_FashionMNIST/img_93.tif,Ankle Boot
+94,./data/iterable_FashionMNIST/img_94.tif,Dress
+95,./data/iterable_FashionMNIST/img_95.tif,Shirt
+96,./data/iterable_FashionMNIST/img_96.tif,Coat
+97,./data/iterable_FashionMNIST/img_97.tif,Trouser
+98,./data/iterable_FashionMNIST/img_98.tif,Trouser
+99,./data/iterable_FashionMNIST/img_99.tif,Bag
